@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=dgl1231%20&⌨fontSize=90" /></div>
+<h1 align=center>✨Skill✨</h1>
+
