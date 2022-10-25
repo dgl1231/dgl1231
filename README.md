@@ -13,7 +13,6 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![JQUERY](https://img.shields.io/badge/-JQUERY-131B28?style=for-the-badge&logo=JQUERY&logoColor=0868AC)
 ![React](https://img.shields.io/badge/-React-1c2c4c?style=for-the-badge&logo=React&logoColor=88dded)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-71A95A?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 > ### Back-End part
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -37,6 +36,7 @@
 ![SLACK](https://img.shields.io/badge/-SLACK-5C00A3?style=for-the-badge&logo=SLACK&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/-VSCODE-1c2c4c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-1c2c4c?style=for-the-badge&logo=ECLIPSE&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-71A95A?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 >### Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=88dded)
