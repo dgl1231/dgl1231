@@ -8,13 +8,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-1c2c4c?style=for-the-badge&logo=React&logoColor=88dded)
 
+
 > ### Back-end
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=PHP&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![FireBase](https://img.shields.io/badge/-FireBase-F5820D?style=for-the-badge&logo=FireBase&logoColor=white)
+![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
 
 ## Communication
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
