@@ -1,5 +1,5 @@
 # Hello, I'm DongGeon Lee
->> ### Welcome to my Github
+>> Welcome to my Github
 >> ### I'm Web/App developer
 >> ### I Can FE, BE, DB
 >> ### I'm interested in English these days
