@@ -1,6 +1,6 @@
 # Hello, I'm DongGeon Lee
 > ## Welcome to My Github
->> ### My English name is Louie Lucas Lee.
+>> ### My English name is Louie Lee.
 >> ### I'm Web/App developer.
 >> ### I Can FE, BE, DB.
 >> ### I'm interested in British English these days.
