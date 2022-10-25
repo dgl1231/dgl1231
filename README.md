@@ -48,8 +48,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dgl1231&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dgl1231" />
 </p>
-
-
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgl1231&theme=onedark" alt="dgl1231" />
+</p>
 <p> 
   <img src="https://github-profile-trophy.vercel.app/?username=dgl1231&theme=onedark" alt="dgl1231" />
 </p>
