@@ -26,7 +26,7 @@
 
 > ### Data-Base part
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-71A95A?style=for-the-badge&logo=HeidiSQL&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-71A95A?style=for-the-badge&logo=Heidi&logoColor=white)
 
 > ### ECT
 ![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
