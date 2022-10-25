@@ -22,7 +22,7 @@
 
 ## Communication
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
-![SLACK](https://img.shields.io/badge/-SLACK-violet?style=for-the-badge&logo=SLACK&logoColor=white)
+![SLACK](https://img.shields.io/badge/-SLACK-5C00A3?style=for-the-badge&logo=SLACK&logoColor=white)
 
 ## Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
