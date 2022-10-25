@@ -45,7 +45,7 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgl1231&layout=compact&theme=tokyonight)
-I usually JS and Node.js. But that projects is private
+>#I usually JS and Node.js. But that projects is private
 
 ## My GitHub State
 ![dgl1231's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgl1231&show_icons=true&theme=radical)
