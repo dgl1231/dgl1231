@@ -2,8 +2,8 @@
 > ## Welcome to My Github
 >> ### I'm Web/App developer
 >> ### I Can FE, BE, DB
->> ### I'm interested in English these days
-
+>> ### I'm interested in British English these days
+>> ### And I'm doing React with Node.js these days
 
 ## This is My skills
 > ### Front-End part
