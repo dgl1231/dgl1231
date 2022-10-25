@@ -31,8 +31,8 @@
 >### Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
 
-### 
-### 
+##
+##
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgl1231&layout=compact&theme=tokyonight)
 
