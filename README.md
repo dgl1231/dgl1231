@@ -2,7 +2,7 @@
 > ## Welcome to My Github
 >> ### My English name is Louie Lee.
 >> ### I'm Web/App developer.
->> ### I Can FE, BE, DB.
+>> ### I an FE, BE, DB.
 >> ### I'm interested in British English these days.
 >> ### And I'm doing React with Node.js these days too.
 > #
