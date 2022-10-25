@@ -32,12 +32,13 @@
 > ### ECT
 ![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
 
->### Using ECT Tools
+>### Using Tools
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![SLACK](https://img.shields.io/badge/-SLACK-5C00A3?style=for-the-badge&logo=SLACK&logoColor=white)
+![VSCODE](https://img.shields.io/badge/-VSCODE-1c2c4c?style=for-the-badge&logo=VSCODE&logoColor=white)
 
 >### Version Control
-![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
+![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=88dded)
 
 
 
