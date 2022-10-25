@@ -1,18 +1,23 @@
+# Hello, I'm DongGeon Lee
+> ### Welcome to my Github
 
+## Using Skills
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=Python&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<div align=center>
-<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-</div>
-<div align=center>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-</div>
-<div align=center>
- 
-</div>
+## Communication
+![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
+
+## Version Control
+![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=tokyonight)
 
 ![dgl1231's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgl1231&show_icons=true&theme=radical)
 
