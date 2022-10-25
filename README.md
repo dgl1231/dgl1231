@@ -11,7 +11,7 @@
 
 > ### Back-end
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-71A95A?style=for-the-badge&logo=EJS&logoColor=760C0C)
+![EJS](https://img.shields.io/badge/-EJS-71A95A?style=for-the-badge&logo=EJS&logoColor=760c0c)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
