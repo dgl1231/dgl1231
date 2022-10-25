@@ -1,13 +1,12 @@
 # Hello, I'm DongGeon Lee
 > ### Welcome to my Github
-
+###
 ## Using Skills
 
 > ### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-1c2c4c?style=for-the-badge&logo=React&logoColor=88dded)
-
 
 > ### Back-end
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -17,7 +16,12 @@
 ![SpringBoot](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JavaServerPage&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=PHP&logoColor=white)
+
+> ### Data-Base
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-71A95A?style=for-the-badge&logo=HeidiSQL&logoColor=white)
+
+> ### ECT
 ![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
 
 ## Communication
@@ -27,6 +31,7 @@
 ## Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
 
+###
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgl1231&layout=compact&theme=tokyonight)
 
