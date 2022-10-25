@@ -2,13 +2,13 @@
 > ### Welcome to my Github
 
 ## Using Skills
+
 > ### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-242443?style=for-the-badge&logo=React&logoColor=88dded)
+![React](https://img.shields.io/badge/-React-1c2c4c?style=for-the-badge&logo=React&logoColor=88dded)
 
 > ### Back-end
-
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
