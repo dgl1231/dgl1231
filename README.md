@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JavaServerPage&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=PHP&logoColor=white)
 
