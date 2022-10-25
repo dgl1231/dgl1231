@@ -18,8 +18,8 @@
 > ### Back-End part
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-71A95A?style=for-the-badge&logo=EJS&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=Spring&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-71A95A?style=for-the-badge&logo=javaspring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JavaServerPage&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=PHP&logoColor=white)
@@ -36,6 +36,7 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![SLACK](https://img.shields.io/badge/-SLACK-5C00A3?style=for-the-badge&logo=SLACK&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/-VSCODE-1c2c4c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-1c2c4c?style=for-the-badge&logo=ECLIPSE&logoColor=white)
 
 >### Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=88dded)
