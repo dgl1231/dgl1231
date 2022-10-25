@@ -2,7 +2,7 @@
 > ### Welcome to my Github
 
 
-## Using Skills
+## I use this
 > ### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
@@ -37,6 +37,7 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgl1231&layout=compact&theme=tokyonight)
+I usually JS and Node.js. But that projects is private
 
 ## My GitHub State
 ![dgl1231's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgl1231&show_icons=true&theme=radical)
