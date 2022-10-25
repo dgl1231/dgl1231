@@ -21,6 +21,7 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-71A95A?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JavaServerPage&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=PHP&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 > ### Data-Base part
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
