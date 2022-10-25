@@ -1,8 +1,8 @@
 # Hello, I'm DongGeon Lee
 > ### Welcome to my Github
-###
-## Using Skills
 
+
+## Using Skills
 > ### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
@@ -31,7 +31,8 @@
 >### Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
 
-#
+
+
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgl1231&layout=compact&theme=tokyonight)
 
