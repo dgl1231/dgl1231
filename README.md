@@ -44,7 +44,7 @@
 
 
 ## Most Used Languages
-># I usually JS and Node.js. But that projects is private
+>>># I usually JS and Node.js. But that projects is private
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dgl1231&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dgl1231" />
 </p>
