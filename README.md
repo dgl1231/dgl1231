@@ -14,19 +14,18 @@
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=PHP&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![FireBase](https://img.shields.io/badge/-FireBase-4479A1?style=for-the-badge&logo=FireBase&logoColor=white)
 
 ## Communication
+![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 
 ## Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=tokyonight)
-
-![dgl1231's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgl1231&show_icons=true&theme=radical)
-
-## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgl1231&layout=compact&theme=tokyonight)
 
+## My GitHub State
+![dgl1231's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgl1231&show_icons=true&theme=radical)
 
