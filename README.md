@@ -1,9 +1,10 @@
 # Hello, I'm DongGeon Lee
 > ## Welcome to My Github
->> ### I'm Web/App developer
->> ### I Can FE, BE, DB
->> ### I'm interested in British English these days
->> ### And I'm doing React with Node.js these days
+>> ### My English name is Louie Lucas Lee.
+>> ### I'm Web/App developer.
+>> ### I Can FE, BE, DB.
+>> ### I'm interested in British English these days.
+>> ### And I'm doing React with Node.js these days too.
 > #
 
 ## This is My skills
