@@ -5,7 +5,7 @@
 > ### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-navy?style=for-the-badge&logo=React&logoColor=61DBFB)
+![React](https://img.shields.io/badge/-React-242443?style=for-the-badge&logo=React&logoColor=88dded)
 
 > ### Back-end
 
