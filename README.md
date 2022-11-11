@@ -43,8 +43,8 @@
 
 
 >### Version Control
-![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=88dded)
-![GITHUB DESKTOP](https://img.shields.io/badge/-GITHUBDESKTOP-181717?style=for-the-badge&logo=GITHUBDESKTOP&logoColor=88dded)
+![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
+![GITHUB DESKTOP](https://img.shields.io/badge/-GITHUBDESKTOP-purple?style=for-the-badge&logo=GITHUBDESKTOP&logoColor=88dded)
 
 
 ## Most Used Languages
