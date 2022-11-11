@@ -33,8 +33,8 @@
 ![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
 
 >### Using Tools
-![VSCODE](https://img.shields.io/badge/-VSCODE-1c2c4c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-1c2c4c?style=for-the-badge&logo=VisualStudio&logoColor=5C00A3)
+![VSCODE](https://img.shields.io/badge/-VSCODE-lightgray?style=for-the-badge&logo=visualstudiocode&logoColor=8993be)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-lightgray?style=for-the-badge&logo=VisualStudio&logoColor=5C00A3)
 ![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-1c2c4c?style=for-the-badge&logo=ECLIPSE&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![SLACK](https://img.shields.io/badge/-SLACK-5C00A3?style=for-the-badge&logo=SLACK&logoColor=white)
