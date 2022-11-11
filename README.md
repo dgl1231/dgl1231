@@ -5,6 +5,7 @@
 >> ### I an FE, BE, DB.
 >> ### I'm interested in British English these days.
 >> ### And I'm doing React with Node.js these days too.
+>> ### I usually prefer MacOS
 > #
 
 ## This is My skills
@@ -27,7 +28,6 @@
 
 > ### Data-Base part
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-71A95A?style=for-the-badge&logo=Heidi&logoColor=white)
 
 > ### ETC
 ![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
@@ -38,10 +38,13 @@
 ![VSCODE](https://img.shields.io/badge/-VSCODE-1c2c4c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-1c2c4c?style=for-the-badge&logo=ECLIPSE&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-71A95A?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-71A95A?style=for-the-badge&logo=HeidiSQL&logoColor=white)
+![SequelPro](https://img.shields.io/badge/-SequelPro-71A95A?style=for-the-badge&logo=SequelPro&logoColor=white)
+
 
 >### Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=88dded)
-
+![GITHUBDESKTOP](https://img.shields.io/badge/-GITHUBDESKTOP-181717?style=for-the-badge&logo=GITHUBDESKTOP&logoColor=88dded)
 
 
 ## Most Used Languages
