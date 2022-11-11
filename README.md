@@ -39,12 +39,12 @@
 ![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-1c2c4c?style=for-the-badge&logo=ECLIPSE&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-71A95A?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-71A95A?style=for-the-badge&logo=HeidiSQL&logoColor=white)
-![SequelPro](https://img.shields.io/badge/-SequelPro-71A95A?style=for-the-badge&logo=SequelPro&logoColor=white)
+![SequelPro](https://img.shields.io/badge/-SequelPro-white?style=for-the-badge&logo=SequelPro&logoColor=yellow)
 
 
 >### Version Control
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=88dded)
-![GITHUB DESKTOP](https://img.shields.io/badge/-GITHUB DESKTOP-181717?style=for-the-badge&logo=GITHUB DESKTOP&logoColor=88dded)
+![GITHUB DESKTOP](https://img.shields.io/badge/-GITHUBDESKTOP-181717?style=for-the-badge&logo=GITHUBDESKTOP&logoColor=88dded)
 
 
 ## Most Used Languages
