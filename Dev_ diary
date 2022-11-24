@@ -8,3 +8,8 @@
 11.18 ~ 11.21 : AWS server error, main/ management page - AWS, Nginx, pm2 error resolve.
 
 11.22 - I want New job. I can't understand PHP(Not mine)CODE, but they want maintenance PHP Webview. this project dosen't use framework. so just gnuboard, html, css, php (No design, no struct ... Trash code)
+
+11.23 - New PM is comming. He asked if I could make an admin page. I said 'yes' . I guess I have to make admin page
+
+11.24 - previous admin page is error. DB - Node.js server is fucked (set wait_time/ and set timezone also)
+
