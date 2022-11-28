@@ -13,3 +13,6 @@
 
 11.24 - previous admin page is error. DB - Node.js server is fucked (set wait_time/ and set timezone also)
 
+11.25 - Nginx, pm2, Node.js server error / git ssh keys error / - resolved
+
+11.28 - react project repacktoring
