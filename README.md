@@ -28,6 +28,8 @@
 
 > ### Data-Base part
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4479A1?style=for-the-badge&logo=POSTGRESQL&logoColor=white)
+
 
 > ### ETC
 ![FireBase](https://img.shields.io/badge/-FireBase-FFA611?style=for-the-badge&logo=FireBase&logoColor=white)
