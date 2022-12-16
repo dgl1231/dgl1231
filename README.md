@@ -3,8 +3,7 @@
 >> ### My English name is Louie Lee.
 >> ### I'm Web/App developer.
 >> ### I'm FE, BE, DB developer.
->> ### I'm interested in British English these days.
->> ### And I'm doing React with Node.js these days too.
+>> ### And I'm doing React with Node.js.
 >> ### I usually prefer MacOS
 > #
 
