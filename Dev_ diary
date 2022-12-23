@@ -31,5 +31,29 @@
  
 12.07 - adminpage route and connect database, check status, and little bugs 
 
-12.15
+12.08 - server check, partner db data modified,postgresql setting, db connect, session module install and setting
+
+12.09 - adminpage postgresql setting connect, session module connecting
+
+12.12 - server checking, session/cookie setting
+
+12.13 - server checking, session/cookie setting, db store setting
+
+12.14 - server checking, session/cookie setted, db store setted/ login hash protacted, make sign up page
+
+12.15 - server checking, database connect and tabe,data added, login, sign up protacted security check
+
+12.16 - server checking, db table setting, data setting, docker container delete and reinstall 
+
+12.19 - server checking, choice front-framework (react)/ connect to react - nodejs(express)
+
+12.20 - server checking, sum between react to nodejs project/ session connect, login-signup error
+
+12.21 - server checking, login page, sign up page - connect/ session error 
+
+12.22 - server checking, make header, sidebar, log out page
+
+12.23 - server checking, session error check, make title component, search-keyword component, search-state check component, search-date check component
+
+
 
