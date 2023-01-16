@@ -59,7 +59,7 @@
 
 ## My GitHub State
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dgl1231&show_icons=true&locale=en&theme=onedark" alt="dgl1231" />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=dgl1231&show_icons=true&locale=en&theme=onedark" alt="dgl1231" />
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgl1231&theme=onedark" alt="dgl1231" />
