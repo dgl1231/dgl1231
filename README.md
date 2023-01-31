@@ -53,14 +53,9 @@
 
 ## Most Used Languages
 >#### I usually use JS or Node.js. But that projects is private
-<p>
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=dgl1231&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dgl1231" />
-</p>
+
 
 ## My GitHub State
-<p>
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=dgl1231&show_icons=true&locale=en&theme=onedark" alt="dgl1231" />
-</p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgl1231&theme=onedark" alt="dgl1231" />
 </p>
